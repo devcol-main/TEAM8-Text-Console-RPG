@@ -1,5 +1,7 @@
 # TEAM8-Text-Console-RPG
 
+Youtube: https://youtu.be/NSOMsNnxaiw
+
 ### **소개**
 - Auto Battler Text RPG
 - 어떻게 하면 플레이어가 TEXT RPG 감성을 조금이라도 느낄수있을까 에 초점을 맞춤
@@ -9,7 +11,7 @@
 - GameManager를 중심으로 각 시스템들(Item, Inventory, Character, Monster, UI, Shop, Sound)이 유기적으로 돌아갈수있도록 구현
 
 ### **주요 게임 사례 및 시연 영상**
-[![포트폴리오 시연 영상](https://img.youtube.com/vi/Smd5yC0MmSY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Smd5yC0MmSY)
+[![포트폴리오 시연 영상](https://i.ytimg.com/an_webp/NSOMsNnxaiw/mqdefault_6s.webp?du=3000&sqp=CLidzdEG&rs=AOn4CLCvfceqNR80Msg96x3sanuooGGM9w)](https://www.youtube.com/watch?v=NSOMsNnxaiw&t=4s&pp=0gcJCT4LAYcqIYzv)
 
 ### **게임 개발 과정**
 - 노션의 다이어그램 예시대로 파트를 나눔
