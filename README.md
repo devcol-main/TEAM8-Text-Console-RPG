@@ -1,6 +1,6 @@
 # TEAM8-Text-Console-RPG
 
-Youtube: https://youtu.be/NSOMsNnxaiw
+Youtube: https://www.youtube.com/watch?v=NSOMsNnxaiw&t=4s&pp=0gcJCT4LAYcqIYzv
 
 ### **소개**
 - Auto Battler Text RPG
